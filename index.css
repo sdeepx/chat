@@ -1,0 +1,115 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+
+	background-color: #0B0B61;
+	position: relative;
+
+}
+
+header {
+	border:none;
+	margin: 10px;
+	padding: 20px;
+	border-bottom:5px solid black;
+	margin: 0;
+	padding: 20px;
+	background-color: #0B0B61;
+	border-radius: 30px;
+}
+
+header a{
+	text-decoration: none;
+}
+
+.dc h1{
+	font-family: Times;
+
+
+}	
+
+.dc a{
+	
+	color: #01DF01;
+}
+
+
+.login input{
+	margin-right: 40px;
+	height: 30px;
+	width: 60px;
+	float: right;
+	padding:2px;
+	border:1px solid blue;
+	border-radius: 10px;
+	background-color: #0B0B3B;
+	color:#58FA58;
+	font-family: Times;
+	
+}
+
+.randchat input{
+	margin-right: 40px;
+	height: 30px;
+	width: 120px;
+	float: right;
+	padding:2px;
+	border:1px solid blue;
+	border-radius: 10px;
+	background-color: #0B0B3B;
+	color:#58FA58;
+	font-family: Times;
+}
+
+/* Header css completed */
+
+.acnt  {
+	color: #58FA58;
+	text-align: center;
+	border:none;
+	float: right;
+	border-bottom:5px solid black;
+	margin-right: 40px;
+	width:500px;
+	height: 60px;
+	border-radius: 40px;
+
+
+}
+
+.accnt input{
+	 padding: 6px;
+     background:transparent;
+     border:none;
+     border-bottom:2px solid white;
+     color:white;
+}
+
+.signup{
+	padding: 3px;
+	border: 1px solid black;
+	width: 100px;
+	height: 30px;
+	border-radius: 10px;
+	color: #58FA58;
+	background-color: #0B0B3B;
+}
+
+.border{
+	border-top:5px solid black;	
+	width:500px;
+	height: 60px;
+	border-radius: 40px;
+
+}
+
+/* sign up completed */
+
+.ha{
+	margin-left: 40px;
+	color: #A9F5A9;
+	font-family: arial black;
+}

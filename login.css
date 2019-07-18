@@ -1,0 +1,77 @@
+body{
+	background-color:#81F7F3;
+}
+
+.home a{
+	text-decoration: none;
+	margin-left: 20px;
+	font-style: italic;
+	font-family: times;
+	border:2px solid black;
+	width: 55px;
+	height: 35px;
+	border-radius: 20px;
+	color: #58FA58;
+	background-color: #08088A;
+}
+
+
+.log{
+	text-align: center;
+	color: #0B0B3B;
+	border-bottom: 5px solid black;
+	height: 70px;
+	width: 350px;
+	border-radius: 40px;
+	padding: 10px;
+
+
+}
+.login{
+	border:none;
+	padding: 3px;
+	height: 350px;
+	width: 330px;
+	background-color: #08088A;	
+	border-radius: 30px;
+
+}
+.login2 input {
+	
+	background: transparent;
+	border:none;
+	border-bottom: 2px solid white;
+}
+.email{
+	margin-top: 70px;
+}
+.fp a{
+	text-decoration: none;
+	color: #8181F7;
+
+}
+.fp{
+	margin-right: 70px;
+
+}
+
+.submit input{
+	font-size: 15px;
+	font-family: times;
+	text-align: center;
+	height: 30px;
+	width: 80px;
+	border-color: 2px solid blue;
+	background-color: #0A0A2A;
+	color: #58FA58;
+	border-radius: 20px;
+
+}
+.border{
+	border-top: 5px solid black;
+	height: 70px;
+	width: 350px;
+	border-radius: 40px;
+	padding: 10px;
+
+}
